@@ -172,7 +172,7 @@ DomainsCheck/
 python domain_validator_windows.py -d suspicious-domain.com
 ```
 ```bash
-python domain_validator_windows.py -d datasupport.account-revantage.ph -o individual --save index.txt
+python domain_validator_windows.py -d suspicious-domain.com -o individual --save index.txt
 ```
 **Output:**
 ```
@@ -186,7 +186,7 @@ python domain_validator_windows.py -d datasupport.account-revantage.ph -o indivi
 
 Create `domains.txt`:
 ```
-login-revantage.ph
+suspicious-domain.com
 payment-verify.net
 account-update.org
 secure-portal.com
@@ -201,8 +201,8 @@ python domain_validator_windows.py -f domains.txt -o individual --save index.txt
 ```
 [*] Creating CTI reports in: domain_reports/
 
-[1/4] Analyzing: login-revantage.ph
-    → Saved: domain_reports/login_revantage_ph_cti_report.txt
+[1/4] Analyzing: suspicious-domain.com
+    → Saved: domain_reports/suspicious-domain.com_cti_report.txt
 
 [2/4] Analyzing: payment-verify.net
     → Saved: domain_reports/payment_verify_net_cti_report.txt
@@ -234,7 +234,7 @@ python domain_validator_windows.py -f domains.txt -o csv --save triage.csv
 **Output (triage.csv):**
 ```csv
 Domain,Score,Priority,Lure_Keywords,Email_Capable,Resolves,CT_Certificate,Typosquatting,Suspicious_Hosting,Suspicious_Redirect
-login-revantage.ph,13,P1 - CRITICAL,✓,✓,✓,✓,✓,☐,✓
+suspicious-domain.com,13,P1 - CRITICAL,✓,✓,✓,✓,✓,☐,✓
 payment-verify.net,9,P1 - CRITICAL,✓,✓,✓,✓,☐,☐,✓
 account-update.org,6,P2 - HIGH,✓,☐,✓,✓,☐,☐,✓
 secure-portal.com,3,MONITOR,✓,☐,✓,☐,☐,☐,☐
@@ -428,7 +428,7 @@ Troubleshooting:
 
 ```
 ================================================================================
-DOMAIN THREAT INTELLIGENCE REPORT: datasupport.payments-revantage.ph
+DOMAIN THREAT INTELLIGENCE REPORT: suspicious-domain.com
 ================================================================================
 Priority: P1 - CRITICAL
 Threat Score: 13/15
@@ -454,14 +454,14 @@ Threat Indicators:
   This is common in phishing campaigns to evade detection.
 
 Redirect Chain:
-  1. [INITIAL  ] http://datasupport.payments-revantage.ph
-  2. [HOP 1    ] http://datasupport.payments-revantage.ph/page/bouncy.php?bpae=...
+  1. [INITIAL  ] http://datasupport.payments-alibaba.ph
+  2. [HOP 1    ] http://datasupport.payments-alibaba.ph/page/bouncy.php?bpae=...
   3. [FINAL ⚠️ ] http://click-v4.exppmnclk.com/click?id=...
 
-Initial Domain: datasupport.payments-revantage.ph
+Initial Domain: datasupport.payments-alibaba.ph
 Final Domain:   click-v4.exppmnclk.com
 
-⚠️  DOMAIN CHANGED: datasupport.payments-revantage.ph → click-v4.exppmnclk.com
+⚠️  DOMAIN CHANGED: datasupport.payments-alibaba.ph → click-v4.exppmnclk.com
    This is the ACTUAL MALICIOUS DESTINATION!
 
 ================================================================================
@@ -471,7 +471,7 @@ THREAT INDICATORS CHECKLIST:
   [✓] Email Capability (+3): MX records present
   [✓] DNS Resolution (+2): 45.79.222.138
   [✓] CT Certificate (+2): Issued 14 days ago
-  [✓] Brand Similarity (+2): Mimics 'revantage'
+  [✓] Brand Similarity (+2): Mimics 'alibaba'
   [ ] Suspicious Hosting: Clean (Tier-2 VPS)
   [✓] Suspicious Redirect (+2): Domain changed
 
@@ -495,7 +495,7 @@ Total Score: 13/15 → P1 - CRITICAL
 
 ### **What It Catches**
 
-✅ Typosquatting (login-revantage.ph mimics revantage.com)  
+✅ Typosquatting (login-alibaba.ph mimics alibaba.com)  
 ✅ Fresh phishing campaigns (certificates <7 days old)  
 ✅ Email-capable domains ready for BEC attacks  
 ✅ JavaScript redirect chains (bypasses button barriers)  
@@ -525,7 +525,7 @@ Edit `PROTECTED_BRANDS` to monitor your brands:
 
 ```python
 PROTECTED_BRANDS = [
-    'revantage',
+    'alibaba',
     'yourcompany',
     'yourbrand'
 ]
@@ -537,8 +537,8 @@ Prevent false positives:
 
 ```python
 LEGITIMATE_DOMAINS = [
-    'revantage.eu',
-    'revantage.com',
+    'alibaba.eu',
+    'alibaba.com',
     'yourcompany.com'
 ]
 ```
@@ -711,6 +711,7 @@ Copyright (c) 2026 [Your Name/Organization]
 
 **Made with ❤️ for security analysts worldwide**
 
-[⭐ Star](https://github.com/yourusername/domain-threat-validator) • [🐛 Report Bug](https://github.com/yourusername/domain-threat-validator/issues) • [✨ Request Feature](https://github.com/yourusername/domain-threat-validator/issues)
 
 </div>
+
+
