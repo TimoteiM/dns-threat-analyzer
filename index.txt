@@ -1,0 +1,1407 @@
+CTI-ENHANCED DOMAIN ANALYSIS INDEX
+================================================================================
+
+rh-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/rh-revantage_ph_cti_report.txt
+
+revantageadmin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantageadmin_ph_cti_report.txt
+
+revantagelogin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantagelogin_ph_cti_report.txt
+
+hr-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/hr-revantage_ph_cti_report.txt
+
+portal-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/portal-revantage_ph_cti_report.txt
+
+profilerevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/profilerevantage_ph_cti_report.txt
+
+paymentsrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/paymentsrevantage_ph_cti_report.txt
+
+profile-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/profile-revantage_ph_cti_report.txt
+
+portalrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/portalrevantage_ph_cti_report.txt
+
+pages-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/pages-revantage_ph_cti_report.txt
+
+payments-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/payments-revantage_ph_cti_report.txt
+
+rhrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/rhrevantage_ph_cti_report.txt
+
+revantageportal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantageportal_ph_cti_report.txt
+
+revantagepayments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantagepayments_ph_cti_report.txt
+
+revantageaccount.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantageaccount_ph_cti_report.txt
+
+pagesrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/pagesrevantage_ph_cti_report.txt
+
+revantage-portal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-portal_ph_cti_report.txt
+
+revantage-admin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-admin_ph_cti_report.txt
+
+revantage-login.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-login_ph_cti_report.txt
+
+revantageprofile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantageprofile_ph_cti_report.txt
+
+revantage-pages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-pages_ph_cti_report.txt
+
+hrrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/hrrevantage_ph_cti_report.txt
+
+accountrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/accountrevantage_ph_cti_report.txt
+
+loginrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/loginrevantage_ph_cti_report.txt
+
+revantagerh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantagerh_ph_cti_report.txt
+
+admin-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/admin-revantage_ph_cti_report.txt
+
+revantagehr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantagehr_ph_cti_report.txt
+
+revantage-hr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-hr_ph_cti_report.txt
+
+revantage-profile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-profile_ph_cti_report.txt
+
+revantage-rh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-rh_ph_cti_report.txt
+
+revantage-payments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-payments_ph_cti_report.txt
+
+revantage-account.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage-account_ph_cti_report.txt
+
+login-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/login-revantage_ph_cti_report.txt
+
+account-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/account-revantage_ph_cti_report.txt
+
+adminrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/adminrevantage_ph_cti_report.txt
+
+revantagepages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantagepages_ph_cti_report.txt
+
+devsupport.rh-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_rh-revantage_ph_cti_report.txt
+
+devsupport.revantageaccount.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantageaccount_ph_cti_report.txt
+
+devsupport.revantage-portal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-portal_ph_cti_report.txt
+
+devsupport.rhrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_rhrevantage_ph_cti_report.txt
+
+devsupport.hrrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_hrrevantage_ph_cti_report.txt
+
+devsupport.revantageportal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantageportal_ph_cti_report.txt
+
+devsupport.payments-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_payments-revantage_ph_cti_report.txt
+
+devsupport.hr-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_hr-revantage_ph_cti_report.txt
+
+devsupport.revantage-account.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-account_ph_cti_report.txt
+
+devsupport.revantagerh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantagerh_ph_cti_report.txt
+
+devsupport.revantagehr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantagehr_ph_cti_report.txt
+
+devsupport.account-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_account-revantage_ph_cti_report.txt
+
+devsupport.paymentsrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_paymentsrevantage_ph_cti_report.txt
+
+devsupport.revantage-hr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-hr_ph_cti_report.txt
+
+devsupport.revantage-rh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-rh_ph_cti_report.txt
+
+devsupport.revantagepages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantagepages_ph_cti_report.txt
+
+devsupport.revantageprofile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantageprofile_ph_cti_report.txt
+
+devsupport.revantage-pages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-pages_ph_cti_report.txt
+
+devsupport.pagesrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_pagesrevantage_ph_cti_report.txt
+
+devsupport.loginrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_loginrevantage_ph_cti_report.txt
+
+devsupport.adminrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_adminrevantage_ph_cti_report.txt
+
+devsupport.revantageadmin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantageadmin_ph_cti_report.txt
+
+devsupport.revantagelogin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantagelogin_ph_cti_report.txt
+
+devsupport.revantagepayments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantagepayments_ph_cti_report.txt
+
+devsupport.profile-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_profile-revantage_ph_cti_report.txt
+
+devsupport.portalrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_portalrevantage_ph_cti_report.txt
+
+devsupport.revantage-payments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-payments_ph_cti_report.txt
+
+devsupport.portal-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_portal-revantage_ph_cti_report.txt
+
+devsupport.profilerevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_profilerevantage_ph_cti_report.txt
+
+devsupport.pages-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_pages-revantage_ph_cti_report.txt
+
+devsupport.login-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_login-revantage_ph_cti_report.txt
+
+devsupport.revantage-admin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-admin_ph_cti_report.txt
+
+devsupport.revantage-login.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-login_ph_cti_report.txt
+
+devsupport.admin-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_admin-revantage_ph_cti_report.txt
+
+devsupport.revantage-profile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage-profile_ph_cti_report.txt
+
+devsupport.accountrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_accountrevantage_ph_cti_report.txt
+
+groupprogram.portalrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_portalrevantage_ph_cti_report.txt
+
+groupprogram.revantage-payments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-payments_ph_cti_report.txt
+
+groupprogram.revantage-account.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-account_ph_cti_report.txt
+
+groupprogram.profile-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_profile-revantage_ph_cti_report.txt
+
+groupprogram.paymentsrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_paymentsrevantage_ph_cti_report.txt
+
+groupprogram.account-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_account-revantage_ph_cti_report.txt
+
+groupprogram.revantagepayments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantagepayments_ph_cti_report.txt
+
+groupprogram.login-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_login-revantage_ph_cti_report.txt
+
+groupprogram.profilerevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_profilerevantage_ph_cti_report.txt
+
+groupprogram.admin-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_admin-revantage_ph_cti_report.txt
+
+groupprogram.revantage-hr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-hr_ph_cti_report.txt
+
+groupprogram.rhrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_rhrevantage_ph_cti_report.txt
+
+groupprogram.hrrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_hrrevantage_ph_cti_report.txt
+
+groupprogram.revantagerh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantagerh_ph_cti_report.txt
+
+groupprogram.revantagehr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantagehr_ph_cti_report.txt
+
+groupprogram.pages-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_pages-revantage_ph_cti_report.txt
+
+groupprogram.portal-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_portal-revantage_ph_cti_report.txt
+
+groupprogram.accountrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_accountrevantage_ph_cti_report.txt
+
+groupprogram.revantageportal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantageportal_ph_cti_report.txt
+
+groupprogram.revantage-pages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-pages_ph_cti_report.txt
+
+groupprogram.revantage-login.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-login_ph_cti_report.txt
+
+groupprogram.revantage-profile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-profile_ph_cti_report.txt
+
+groupprogram.pagesrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_pagesrevantage_ph_cti_report.txt
+
+groupprogram.loginrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_loginrevantage_ph_cti_report.txt
+
+groupprogram.revantage-rh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-rh_ph_cti_report.txt
+
+groupprogram.adminrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_adminrevantage_ph_cti_report.txt
+
+groupprogram.payments-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_payments-revantage_ph_cti_report.txt
+
+groupprogram.revantageadmin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantageadmin_ph_cti_report.txt
+
+groupprogram.revantage-admin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-admin_ph_cti_report.txt
+
+groupprogram.rh-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_rh-revantage_ph_cti_report.txt
+
+groupprogram.hr-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_hr-revantage_ph_cti_report.txt
+
+groupprogram.revantageprofile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantageprofile_ph_cti_report.txt
+
+groupprogram.revantage-portal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage-portal_ph_cti_report.txt
+
+groupprogram.revantageaccount.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantageaccount_ph_cti_report.txt
+
+groupprogram.revantagelogin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantagelogin_ph_cti_report.txt
+
+groupprogram.revantagepages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantagepages_ph_cti_report.txt
+
+datasupport.revantage-account.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-account_ph_cti_report.txt
+
+datasupport.revantage-payments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-payments_ph_cti_report.txt
+
+datasupport.revantagepayments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantagepayments_ph_cti_report.txt
+
+datasupport.profile-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_profile-revantage_ph_cti_report.txt
+
+datasupport.revantage-hr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-hr_ph_cti_report.txt
+
+datasupport.revantage-rh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-rh_ph_cti_report.txt
+
+datasupport.revantage-portal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-portal_ph_cti_report.txt
+
+datasupport.payments-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_payments-revantage_ph_cti_report.txt
+
+datasupport.revantageaccount.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantageaccount_ph_cti_report.txt
+
+datasupport.accountrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_accountrevantage_ph_cti_report.txt
+
+datasupport.login-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_login-revantage_ph_cti_report.txt
+
+datasupport.admin-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_admin-revantage_ph_cti_report.txt
+
+datasupport.profilerevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_profilerevantage_ph_cti_report.txt
+
+datasupport.paymentsrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_paymentsrevantage_ph_cti_report.txt
+
+datasupport.rhrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_rhrevantage_ph_cti_report.txt
+
+datasupport.hrrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_hrrevantage_ph_cti_report.txt
+
+datasupport.portal-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_portal-revantage_ph_cti_report.txt
+
+datasupport.revantage-profile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-profile_ph_cti_report.txt
+
+datasupport.revantagepages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantagepages_ph_cti_report.txt
+
+datasupport.revantage-login.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-login_ph_cti_report.txt
+
+datasupport.revantage-pages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-pages_ph_cti_report.txt
+
+datasupport.portalrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_portalrevantage_ph_cti_report.txt
+
+datasupport.revantageprofile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantageprofile_ph_cti_report.txt
+
+datasupport.revantage-admin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage-admin_ph_cti_report.txt
+
+datasupport.hr-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_hr-revantage_ph_cti_report.txt
+
+datasupport.rh-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_rh-revantage_ph_cti_report.txt
+
+datasupport.revantageadmin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantageadmin_ph_cti_report.txt
+
+datasupport.revantagerh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantagerh_ph_cti_report.txt
+
+datasupport.revantagehr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantagehr_ph_cti_report.txt
+
+datasupport.account-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_account-revantage_ph_cti_report.txt
+
+datasupport.revantagelogin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantagelogin_ph_cti_report.txt
+
+datasupport.pages-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_pages-revantage_ph_cti_report.txt
+
+datasupport.pagesrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_pagesrevantage_ph_cti_report.txt
+
+datasupport.loginrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_loginrevantage_ph_cti_report.txt
+
+datasupport.adminrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_adminrevantage_ph_cti_report.txt
+
+datasupport.revantageportal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantageportal_ph_cti_report.txt
+
+connect.revantage-hr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-hr_ph_cti_report.txt
+
+connect.accountrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_accountrevantage_ph_cti_report.txt
+
+connect.admin-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_admin-revantage_ph_cti_report.txt
+
+connect.revantagepages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantagepages_ph_cti_report.txt
+
+connect.revantageadmin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantageadmin_ph_cti_report.txt
+
+connect.revantagelogin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantagelogin_ph_cti_report.txt
+
+connect.revantage-profile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-profile_ph_cti_report.txt
+
+connect.pagesrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_pagesrevantage_ph_cti_report.txt
+
+connect.loginrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_loginrevantage_ph_cti_report.txt
+
+connect.revantage-account.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-account_ph_cti_report.txt
+
+connect.revantagehr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantagehr_ph_cti_report.txt
+
+connect.payments-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_payments-revantage_ph_cti_report.txt
+
+connect.revantagerh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantagerh_ph_cti_report.txt
+
+connect.profilerevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_profilerevantage_ph_cti_report.txt
+
+connect.portal-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_portal-revantage_ph_cti_report.txt
+
+connect.revantagepayments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantagepayments_ph_cti_report.txt
+
+connect.hr-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_hr-revantage_ph_cti_report.txt
+
+connect.login-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_login-revantage_ph_cti_report.txt
+
+connect.revantage-rh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-rh_ph_cti_report.txt
+
+connect.account-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_account-revantage_ph_cti_report.txt
+
+connect.revantage-pages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-pages_ph_cti_report.txt
+
+connect.revantage-admin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-admin_ph_cti_report.txt
+
+connect.revantage-login.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-login_ph_cti_report.txt
+
+connect.revantageportal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantageportal_ph_cti_report.txt
+
+connect.adminrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_adminrevantage_ph_cti_report.txt
+
+connect.rh-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_rh-revantage_ph_cti_report.txt
+
+connect.hrrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_hrrevantage_ph_cti_report.txt
+
+connect.revantage-portal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-portal_ph_cti_report.txt
+
+connect.paymentsrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_paymentsrevantage_ph_cti_report.txt
+
+connect.profile-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_profile-revantage_ph_cti_report.txt
+
+connect.revantageaccount.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantageaccount_ph_cti_report.txt
+
+connect.revantageprofile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantageprofile_ph_cti_report.txt
+
+connect.portalrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_portalrevantage_ph_cti_report.txt
+
+connect.pages-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_pages-revantage_ph_cti_report.txt
+
+connect.rhrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_rhrevantage_ph_cti_report.txt
+
+connect.revantage-payments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage-payments_ph_cti_report.txt
+
+myapps.paymentsrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_paymentsrevantage_ph_cti_report.txt
+
+myapps.revantageportal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantageportal_ph_cti_report.txt
+
+myapps.payments-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_payments-revantage_ph_cti_report.txt
+
+myapps.revantagepayments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantagepayments_ph_cti_report.txt
+
+myapps.admin-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_admin-revantage_ph_cti_report.txt
+
+myapps.accountrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_accountrevantage_ph_cti_report.txt
+
+myapps.revantageprofile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantageprofile_ph_cti_report.txt
+
+myapps.account-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_account-revantage_ph_cti_report.txt
+
+myapps.loginrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_loginrevantage_ph_cti_report.txt
+
+myapps.profile-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_profile-revantage_ph_cti_report.txt
+
+myapps.pages-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_pages-revantage_ph_cti_report.txt
+
+myapps.revantagerh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantagerh_ph_cti_report.txt
+
+myapps.portalrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_portalrevantage_ph_cti_report.txt
+
+myapps.revantagehr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantagehr_ph_cti_report.txt
+
+myapps.login-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_login-revantage_ph_cti_report.txt
+
+myapps.pagesrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_pagesrevantage_ph_cti_report.txt
+
+myapps.adminrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_adminrevantage_ph_cti_report.txt
+
+myapps.revantageadmin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantageadmin_ph_cti_report.txt
+
+myapps.profilerevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_profilerevantage_ph_cti_report.txt
+
+myapps.revantagepages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantagepages_ph_cti_report.txt
+
+myapps.rh-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_rh-revantage_ph_cti_report.txt
+
+myapps.revantagelogin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantagelogin_ph_cti_report.txt
+
+myapps.revantage-portal.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-portal_ph_cti_report.txt
+
+myapps.hrrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_hrrevantage_ph_cti_report.txt
+
+myapps.portal-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_portal-revantage_ph_cti_report.txt
+
+myapps.revantage-rh.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-rh_ph_cti_report.txt
+
+myapps.revantage-hr.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-hr_ph_cti_report.txt
+
+myapps.hr-revantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_hr-revantage_ph_cti_report.txt
+
+myapps.rhrevantage.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_rhrevantage_ph_cti_report.txt
+
+myapps.revantageaccount.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantageaccount_ph_cti_report.txt
+
+myapps.revantage-pages.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-pages_ph_cti_report.txt
+
+myapps.revantage-admin.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-admin_ph_cti_report.txt
+
+myapps.revantage-login.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-login_ph_cti_report.txt
+
+myapps.revantage-account.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-account_ph_cti_report.txt
+
+myapps.revantage-profile.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-profile_ph_cti_report.txt
+
+myapps.revantage-payments.ph
+  Priority: P1 - CRITICAL
+  Score: 8/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage-payments_ph_cti_report.txt
+
+groupprogram.revantage.account.eu
+  Priority: P1 - CRITICAL
+  Score: 10/15
+  Suspicious Hosting: 0/10
+  Report: domain_reports/groupprogram_revantage_account_eu_cti_report.txt
+
+groupprogram.revantage.portal.eu
+  Priority: P2 - HIGH
+  Score: 7/15
+  Suspicious Hosting: 1/10
+  Report: domain_reports/groupprogram_revantage_portal_eu_cti_report.txt
+
+groupprogram.revantage.payments.eu
+  Priority: P1 - CRITICAL
+  Score: 9/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/groupprogram_revantage_payments_eu_cti_report.txt
+
+devsupport.revantage.account.eu
+  Priority: P1 - CRITICAL
+  Score: 10/15
+  Suspicious Hosting: 0/10
+  Report: domain_reports/devsupport_revantage_account_eu_cti_report.txt
+
+devsupport.revantage.payments.eu
+  Priority: P1 - CRITICAL
+  Score: 9/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/devsupport_revantage_payments_eu_cti_report.txt
+
+devsupport.revantage.portal.eu
+  Priority: P2 - HIGH
+  Score: 7/15
+  Suspicious Hosting: 1/10
+  Report: domain_reports/devsupport_revantage_portal_eu_cti_report.txt
+
+datasupport.revantage.payments.eu
+  Priority: P1 - CRITICAL
+  Score: 9/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/datasupport_revantage_payments_eu_cti_report.txt
+
+datasupport.revantage.account.eu
+  Priority: P1 - CRITICAL
+  Score: 10/15
+  Suspicious Hosting: 0/10
+  Report: domain_reports/datasupport_revantage_account_eu_cti_report.txt
+
+datasupport.revantage.portal.eu
+  Priority: P2 - HIGH
+  Score: 7/15
+  Suspicious Hosting: 1/10
+  Report: domain_reports/datasupport_revantage_portal_eu_cti_report.txt
+
+connect.revantage.account.eu
+  Priority: P1 - CRITICAL
+  Score: 10/15
+  Suspicious Hosting: 0/10
+  Report: domain_reports/connect_revantage_account_eu_cti_report.txt
+
+connect.revantage.portal.eu
+  Priority: P2 - HIGH
+  Score: 7/15
+  Suspicious Hosting: 1/10
+  Report: domain_reports/connect_revantage_portal_eu_cti_report.txt
+
+connect.revantage.payments.eu
+  Priority: P1 - CRITICAL
+  Score: 9/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/connect_revantage_payments_eu_cti_report.txt
+
+myapps.revantage.portal.eu
+  Priority: P2 - HIGH
+  Score: 7/15
+  Suspicious Hosting: 1/10
+  Report: domain_reports/myapps_revantage_portal_eu_cti_report.txt
+
+myapps.revantage.payments.eu
+  Priority: P1 - CRITICAL
+  Score: 9/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/myapps_revantage_payments_eu_cti_report.txt
+
+myapps.revantage.account.eu
+  Priority: P1 - CRITICAL
+  Score: 10/15
+  Suspicious Hosting: 0/10
+  Report: domain_reports/myapps_revantage_account_eu_cti_report.txt
+
+revantage.portal.eu
+  Priority: P2 - HIGH
+  Score: 7/15
+  Suspicious Hosting: 1/10
+  Report: domain_reports/revantage_portal_eu_cti_report.txt
+
+revantage.account.eu
+  Priority: P1 - CRITICAL
+  Score: 10/15
+  Suspicious Hosting: 0/10
+  Report: domain_reports/revantage_account_eu_cti_report.txt
+
+revantage.payments.eu
+  Priority: P1 - CRITICAL
+  Score: 9/15
+  Suspicious Hosting: 2/10
+  Report: domain_reports/revantage_payments_eu_cti_report.txt
+
