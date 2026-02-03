@@ -88,7 +88,7 @@ Redirect Chain:
 
 ```bash
 # Option A: Clone with git
-git clone https://github.com/yourusername/domain-threat-validator.git
+git clone https://github.com/TimoteiM/dns-threat-analyzer.git
 cd domain-threat-validator
 
 # Option B: Download ZIP
