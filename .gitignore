@@ -5,5 +5,5 @@ chrome-win64/
 checked_domains/
 domain_reports/
 reports/
-
+readme.md
 .env
